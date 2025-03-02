@@ -1,5 +1,14 @@
 # EA Node.js + TypeScript + Mongoose
 
+## Actividad
+Ejercicio resuelto por David LM. Se ha empleado el propio repositorio (fork) y chatgpt para realizar dicho ejercicio. 
+Comandos
+```
+npm install mongoose typescript ts-node @types/node
+npx ts-node src/index.ts
+```
+He utilizado mongodb en local.
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
